@@ -31,7 +31,11 @@ def update_environment(obj_name, *args):
 
 
 def process_next_command():
-    input_string = input()
+    # this is for the tests
+    try:
+        input_string = input()
+    except EOFError:
+        exit(0)
     try:
         command_type, command_key, *command_values = input_string.split()
     except ValueError:
