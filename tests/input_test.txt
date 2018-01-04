@@ -1,0 +1,1759 @@
+settings player_names player0,player1
+settings your_bot player0
+settings timebank 10000
+settings time_per_move 100
+settings your_botid 0
+settings field_width 19
+settings field_height 15
+settings max_rounds 250
+action character 10000
+update game round 0
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,P1,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 1
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,P1,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 2
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,P1,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 3
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,P1,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 4
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,P1,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 5
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,P1,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 6
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,P1,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 7
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,P1,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 8
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,P1,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 9
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,P1,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 10
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,P1,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 11
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,P1,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 12
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,P1,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 13
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,P1,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 14
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,P1,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 15
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,P1,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,.,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 16
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,P1,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 17
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,P1,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 18
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,P1,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 19
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,P1,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 20
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,P1,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 21
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,P1,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 22
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0;P1,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 23
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,.,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,P1,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 24
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0;P1,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 25
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,P1,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 26
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,P1,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 27
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,P1,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 28
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,P1,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 29
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,P1,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 30
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,P1,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 31
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,.,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,P1,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 32
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,P1,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 33
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,P1,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 34
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,P1,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 35
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,P1,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 36
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0;P1,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 37
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,P1,.,.,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 38
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,P1,.,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 39
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,P1,x,x,.,x,x,.,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 40
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,P1,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 41
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,P1,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 42
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,P1,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 43
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,P1,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 44
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,P1,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 45
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,P1,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 46
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,P1,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 47
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,P1,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 48
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,P1,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 49
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,P1,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 50
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,P1,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 51
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,P1,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 52
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 53
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 54
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,P1,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 55
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,.,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 56
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 57
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 58
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,P1;Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 59
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 60
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 61
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 62
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 63
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,P1,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,.,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 64
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 65
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 66
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 67
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 68
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 69
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,P1,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 70
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,P1,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 71
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,P1,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 72
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,P1,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 73
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,P1,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 74
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,P1,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 75
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,P1,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 76
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,P1,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 77
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,P1,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 78
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,P1,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 79
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,P1,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,.,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 80
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,P1,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 81
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,P1,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 82
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,P1,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 83
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 84
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,P1,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 85
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 86
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,P1,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 87
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,.,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 88
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,P1,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 89
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 90
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,P1,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 91
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 92
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,P1,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 93
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 94
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,P1,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 95
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,.,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 96
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,P1,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 97
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 98
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,P1,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 99
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 100
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,P1,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 101
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,P1,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 102
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,P1,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 103
+update game field S,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,P1,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 104
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 105
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 106
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 107
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 108
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 109
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,P1,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 110
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 111
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 112
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 113
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,P1,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 114
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,P1,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,C,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 0
+update player1 bombs 0
+action move 10000
+update game round 115
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 116
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 117
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 118
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 119
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 120
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 121
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 122
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,P1,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 123
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,P1,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 124
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,P1,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 125
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,P1,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 126
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,P1,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 127
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,P1,x,.,.,C,.,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 128
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,P1,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 129
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,P1,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 130
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,P1,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 131
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,P1,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 132
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,P1,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 133
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,P1,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 134
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,P1,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 135
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,.,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 136
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 137
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,P1,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 138
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,P1,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 139
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,P1,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 140
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 141
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,P1,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 142
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 143
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,.,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 144
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,P1,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 145
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 146
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,P1,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 147
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 148
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 149
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 150
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 151
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,.,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 152
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 153
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 154
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 155
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 156
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 157
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 158
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 159
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,.,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,P1,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 160
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,P1,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 161
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,P1,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 162
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 163
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,P1,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 164
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 165
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 166
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 167
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,.,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 168
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 169
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 170
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 171
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 172
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 173
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 174
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 175
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,.,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 176
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 177
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 178
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 179
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 180
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 181
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 182
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 183
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,.,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 184
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 185
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 186
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,P1,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 187
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 188
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 189
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 190
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 191
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,.,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 192
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,P1,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 193
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,P1,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 194
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,P1,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 195
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,P1,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 196
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,P1,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 197
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,.,P1,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 198
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,.,P1,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 199
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,.,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 200
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 201
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 202
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 203
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 204
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 205
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 206
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 207
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,.,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 208
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 209
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 210
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,P1,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 211
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 212
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 213
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 214
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 215
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,.,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 216
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,P1,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 217
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 218
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 219
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 220
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 221
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 222
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 223
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,.,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 224
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 225
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 226
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 227
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 228
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 229
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 230
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,P1,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 231
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,P1,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,.,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 232
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,P1,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 233
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 234
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,P1,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 235
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 236
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 237
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 238
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 239
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,.,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 240
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 241
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 242
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 243
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,P1,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 244
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,P1,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 245
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 246
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 247
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,.,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,P1,.,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 248
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,C,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,P1,.,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
+update game round 249
+update game field S;C,.,C,x,.,.,.,.,.,.,.,.,.,.,.,x,C,.,S,C,x,C,x,C,x,x,x,x,.,x,x,x,x,.,x,.,x,.,C,x,C,.,.,x,C,.,.,.,.,C,C,x,.,C,.,x,.,C,x,x,x,.,x,.,x,x,x,x,x,.,x,C,x,x,x,.,.,x,.,.,.,x,.,.,.,.,.,.,.,x,.,.,.,x,C,.,.,.,x,.,x,.,x,x,.,x,x,.,x,.,x,.,.,.,x,.,x,x,.,.,.,x,x,.,x,x,C,C,C,x,x,.,x,Gl,.,x,x,P0,x,x,x,x,.,x,x,x,x,.,x,x,.,Gr,x,.,x,x,.,.,.,.,.,C,.,.,C,.,.,x,x,.,x,.,.,.,x,.,x,x,x,x,x,x,x,x,x,C,x,.,.,.,.,x,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,x,.,.,x,.,x,x,.,x,.,.,C,C,.,x,.,x,x,.,x,C,.,x,.,x,x,.,x,x,x,x,x,x,x,.,x,x,.,x,C,.,x,.,x,x,.,x,.,.,P1,.,.,x,.,x,x,C,x,.,S;C,.,.,.,.,.,.,.,x,x,x,.,.,.,.,C,C,C,S
+update player0 snippets 0
+update player0 bombs 0
+update player1 snippets 1
+update player1 bombs 0
+action move 10000
