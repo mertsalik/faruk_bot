@@ -10,7 +10,7 @@ __email__ = ""
 class FieldParser(object):
     matrix = []
 
-    def __init__(self, input_string, width, height):
+    def __init__(self, input_string, width):
         cells = input_string.split(',')
         self.matrix = [cells[x:x + width] for x in
                        range(0, len(cells), width)]
