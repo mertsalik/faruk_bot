@@ -17,5 +17,5 @@ class IOParser(object):
         _, key, value = input_string.split()
         return {key: value}
 
-
-    def wait(self):
+    def command_loop(self):
+        pass
