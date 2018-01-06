@@ -15,6 +15,34 @@ class EnvironmentObject(object):
 
 
 class Cell(EnvironmentObject):
+    """
+    CellType	Description
+    .	        A cell (coordinate) with nothing on it.
+
+    x	        An inaccessible cell.
+
+    Pi	ID i (Integer)
+                Contains a player, where i is a player's id.
+
+    Si	Number i (Integer)
+                Represents a bug spawn point, where i is the amount of
+                rounds before a bug spawns. Can just be S is
+                no bugs are spawning.
+
+    Gs	String s (String: l, r)
+                Represents a gate, where s is the direction the bot needs to
+                move when standing on the gate to move through it.
+
+    Ei	Number i (Integer)
+                    Contains a bug, where i specifies the bug's AI type.
+
+    Bi	Number i (Integer)
+                Contains a laser-mine, where i is the amount of rounds before
+                the mine explodes.
+                Will just be B if the laser-mine can be picked up.
+
+    C	A cell that contains a code snippet.
+    """
     x = 0
     y = 0
     __bug_count = 0
